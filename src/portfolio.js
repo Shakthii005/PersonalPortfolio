@@ -1,13 +1,13 @@
 const header = {
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://shakthi005.vercel.app/',
   title: 'Shakthivel',
 }
 
 const about = {
   name: 'Shakthivel Rajesh',
-  role: 'Cybersecurity Specialist',
-  description: 'I am a cybersecurity specialist with a strong foundation in networking fundamentals, security information and event management (SIEM), and bash scripting. I am also skilled in effective team communication and coordination.',
-  resume: '/Resume.pdf',
+  role: 'Network Security Analyst',
+  description: 'I am a cybersecurity specialist with a strong foundation in Networking fundamentals, Security Information and Event Management (SIEM), and Bash scripting. I am also skilled in effective Team communication and coordination.',
+  Resume: '/Resume.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/shakthivel-rajesh',
     github: 'https://github.com/Shakthii005',
@@ -66,4 +66,4 @@ const contact = {
   email: 'svelr005@gmail.com',
 }
 
-export { header, about, projects, skills, education, certifications, contact }
+export { header, about, Projects, Skills, Education, Certifications, Contact }
