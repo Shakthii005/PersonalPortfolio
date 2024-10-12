@@ -1,0 +1,20 @@
+.section.certifications {
+  padding: 2rem 0;
+}
+
+.section__title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.certifications__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.certifications__item {
+  background-color: var(--clr-bg-alt);
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
