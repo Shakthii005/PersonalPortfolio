@@ -66,4 +66,4 @@ const contact = {
   email: 'svelr005@gmail.com',
 }
 
-export { header, about, Projects, Skills, Education, Certifications, Contact }
+export { header, about, projects, skills, education, certification, contact }
